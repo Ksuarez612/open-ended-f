@@ -1,0 +1,15 @@
+h1{
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+tr:nth-child(even){
+  background-color: lightblue;
+}
+
+tr:nth-child(odd){
+  background-color: plum;
+}
+ tr:hover{
+   text-decoration: underline;
+ }
